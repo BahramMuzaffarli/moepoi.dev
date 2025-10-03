@@ -32,8 +32,8 @@ export const experience: Resume[] = [
 
 export const education: Resume[] = [
   {
-    title: 'Tarumanagara University',
-    description: 'Bachelor of Computer Science | 2020 - 2024'
+    title: 'Azerbaijan Oil and Industry University',
+    description: 'Bachelor of Computer Science | 2018 - 2022'
   },
   {
     title: 'Methodist School',
@@ -43,7 +43,7 @@ export const education: Resume[] = [
 
 export const language: Resume[] = [
   {
-    title: 'Indonesian',
+    title: 'Azerbaijan',
     description: 'Native'
   },
   {
