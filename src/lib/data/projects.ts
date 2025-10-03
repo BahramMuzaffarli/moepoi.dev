@@ -14,7 +14,7 @@ export const projects: Project[] = [
     date: '6 October 2023',
     categories: 'Game',
     description: 'Frontier of Hell is a tower defense game that requires players to protect the base from enemy attacks at each stage.',
-    url: 'https://github.com/moepoi/Frontier-of-Hell'
+    url: 'https://github.com/BahramMuzaffarli/Frontier-of-Hell'
   },
   {
     title: 'Kitchen Counts',
@@ -22,7 +22,7 @@ export const projects: Project[] = [
     date: '6 October 2022',
     categories: 'App',
     description: 'Stock management app for kitchen.',
-    url: 'https://github.com/moepoi/Kitchen_Counts'
+    url: 'https://github.com/BahramMuzaffarli/Kitchen_Counts'
   },
   {
     title: 'Nekoya App',
@@ -55,7 +55,7 @@ export const projects: Project[] = [
     categories: 'App',
     description:
         'App for streaming & download anime (Indo sub). Build with Flutter :)',
-    url: 'https://github.com/moepoi/Neonime-App'
+    url: 'https://github.com/BahramMuzaffarli/Neonime-App'
   },
   {
     title: 'Toaru Stickers',
@@ -64,7 +64,7 @@ export const projects: Project[] = [
     categories: 'App',
     description:
         'Toaru Stickers Application for Whatsapp. Build with Flutter :)',
-    url: 'https://github.com/moepoi/Toaru-Stickers'
+    url: 'https://github.com/BahramMuzaffarli/Toaru-Stickers'
   },
   {
     title: 'Moe API',
